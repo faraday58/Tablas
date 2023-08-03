@@ -9,6 +9,7 @@ import UIKit
 
 class ViewController: UIViewController {
 
+    //Ejemplo de manejo de Tablas y celdas
     @IBOutlet var myTableView: UITableView!
     
     private let countries = ["España", "México", "Italia", "Francia", "Brasil", "Portugal", "Colombia", "China"]
